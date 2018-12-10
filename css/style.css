@@ -1,0 +1,35 @@
+body{
+  background-color: #f0f2f4;
+}
+header{
+  background-color: #E0E4E8;
+  padding: 20px 10px;
+  width: 100%;
+  min-height: 100vh;
+}
+header .logo{
+  text-align: center;
+}
+header .logo img{
+  display: inline;
+  padding: 0 10px;
+}
+header .logo h1{
+  display: inline;
+  color: #444444;
+  text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+  color: #444444;
+}
+.input-area{
+  background-color: #8a9ba8;
+  margin-top: 30px;
+  padding: 30px 20px;
+}
+.output-area{
+  padding: 20px;
+}
+.table .thead-dark th{
+  color: #fff;
+  background-color: #627584;
+  border-color: #a7b4be;
+}
